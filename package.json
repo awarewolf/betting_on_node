@@ -1,0 +1,11 @@
+{
+  "name": "betting_on_node",
+  "version": "1.0.0",
+  "description": "A console version of the JS betting game",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon Pregent",
+  "license": "ISC"
+}
