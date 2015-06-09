@@ -7,5 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Simon Pregent",
+  "repository": "git@github.com:awarewolfyukon/betting_on_node.git",
   "license": "ISC"
 }
